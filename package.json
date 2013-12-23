@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "react": "~0.8.0",
-    "react-app": "~0.10.1"
+    "react-app": "~0.10.2"
   },
   "devDependencies": {
     "jsxhint": "~0.3.0",
