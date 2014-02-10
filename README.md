@@ -1,5 +1,8 @@
 # react-app-demo
 
+**DEPRECATION WARNING:** This is not maintained anymore, please use
+[react-quickstart](https://github.com/andreypopp/react-quickstart) instead.
+
 A minimal example of a single page app project which uses [react-app][]. You can
 use this as a starting poing for your new project, just fork and change a few
 credentials in `package.json`.
